@@ -5,7 +5,7 @@ let userID = '';
 let proxyIP = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLmZ4eGsuZGVkeW4uaW8=');
-let subConfig = atob('aHR0cHM6Ly9naXRodWIuY29tL3Vpb3R5L0FDTDRTU1IvcmF3L3JlZnMvaGVhZHMvbWFzdGVyL0NsYXNoL2NvbmZpZy9jbGFzaC11aW90eQ==');
+let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Vpb3R5L0FDTDRTU1IvcmVmcy9oZWFkcy9tYXN0ZXIvQ2xhc2gvY29uZmlnL2NsYXNoLWFpLmluaQ==');
 let subProtocol = 'https';
 let subEmoji = 'true';
 let socks5Address = '';
